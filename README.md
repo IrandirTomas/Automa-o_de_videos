@@ -1,2 +1,2 @@
-# Automa-o_de_videos
+# Automacao_de_videos
 Projeto open source de automação
